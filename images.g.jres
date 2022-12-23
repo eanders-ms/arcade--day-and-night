@@ -1,0 +1,14 @@
+{
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDA2MDAwYzAwMDEwMDAwMDAwMDAwNTAwMDAwNjAwMDc3NTcwNzc3NTEwMTE3NTUxNTE3NTUxNWI3NjZiNjc3NTUwNTAwMDEwMTAwMDEwMTAwMGIwYg==",
+        "displayName": "light_player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
