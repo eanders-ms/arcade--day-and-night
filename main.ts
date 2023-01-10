@@ -77,9 +77,9 @@ function splash () {
             scene.backgroundImage().fillCircle(scene.screenWidth() / 2, scene.screenHeight() / 2, j, 11)
             scene.backgroundImage().fillCircle(scene.screenWidth() / 2, scene.screenHeight() / 2, k, 5)
             if (l < 43) {
-                scene.backgroundImage().printCenter("day and night", l, 1)
+                scene.backgroundImage().printCenter("day and night", scene.screenHeight() - l, 1)
             } else {
-                scene.backgroundImage().printCenter("day and night", l, 15)
+                scene.backgroundImage().printCenter("day and night", scene.screenHeight() - l, 15)
             }
             pause(5)
         }
