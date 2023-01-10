@@ -15,7 +15,9 @@
         "custom.ts",
         "custom.d.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -27,5 +29,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#d45362",
+        "#e8958b",
+        "#cc8945",
+        "#f5dc8c",
+        "#417d53",
+        "#5dd48f",
+        "#5162c2",
+        "#6cadeb",
+        "#b56edd",
+        "#8f3f29",
+        "#612431",
+        "#c0fac2",
+        "#24325e",
+        "#1b1221"
+    ]
 }
